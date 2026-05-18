@@ -18,7 +18,7 @@ The project demonstrates how to manipulate audio workspace arrays to introduce e
 * **Purpose:** Traditional time-domain smoothing.
 * **Function:** Implements a algorithm that averages adjacent data points in the audio vector. This acts as a smoothing filter to reduce sudden, random noise spikes.
 
-### 4. `04_ai_linear_regression.m`
+### 4. `04_AI_based_inear_regression.m`
 * **Purpose:** Algorithmic signal estimation via AI.
 * **Function:** Framework for utilizing linear regression to map the relationships between the noisy signal inputs and target audio features, demonstrating an AI-driven approach to predictive signal modeling and reconstruction.
 
